@@ -17,11 +17,6 @@
   </url>
   
   <url>
-    <loc>https://sanfordtrailcam.com/posts/firstpost/</loc>
-    <lastmod>2022-03-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sanfordtrailcam.com/about/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
@@ -59,5 +54,10 @@
   <url>
     <loc>https://sanfordtrailcam.com/tags/posts-with-two-tags/</loc>
     <lastmod>2022-06-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sanfordtrailcam.com/posts/firstpost/</loc>
+    <lastmod>2022-11-08</lastmod>
   </url>
 </urlset>
