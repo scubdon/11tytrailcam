@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Sanford Trail Cam</title>
+	<subtitle>Trail Camera recordings from Sanford, Maine.</subtitle>
+	
+	<link href="https://sanfordtrailcam.com/feed/feed.xml" rel="self"/>
+	<link href="https://sanfordtrailcam.com/"/>
+	<updated>2022-03-24T00:00:00Z</updated>
+	<id>https://sanfordtrailcam.com/</id>
+	<author>
+		<name>Richard</name>
+		<email>scubdub@sanfordtrailcam.com</email>
+	</author>
+	
+	<entry>
+		<title>Otter (again)</title>
+		<link href="https://sanfordtrailcam.com/posts/firstpost/"/>
+		<updated>2022-03-24T00:00:00Z</updated>
+		<id>https://sanfordtrailcam.com/posts/firstpost/</id>
+		<content type="html">&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;u4nZwPgCjZ4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/u4nZwPgCjZ4/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Otter (again)&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;u4nZwPgCjZ4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/u4nZwPgCjZ4/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Otter (again)&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;NLFCgXpuwQw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/NLFCgXpuwQw/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Otter March 21-24, 2022&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;xnsC52rg0Bo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/xnsC52rg0Bo/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Raccoon March 21, 2022&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;FjzIXmLL6nE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/FjzIXmLL6nE/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Turkey July 14, 2021&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;QnPihqzlFYo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/QnPihqzlFYo/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Otters June 4, 2021&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;oY_ixi-pz4c&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/oY_ixi-pz4c/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Coyotes  -  April 3, 2021 2:01am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;3BRjMX_rPAM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/3BRjMX_rPAM/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Porcupine - April 3, 2021 2:49am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;XGJkGLo7s7U&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/XGJkGLo7s7U/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Old clip from October 2019 - not sure what this is. it looks like a cat, or maybe a raccoon&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;65qxe3I2PMg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/65qxe3I2PMg/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Rabbit - February 23, 2021&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;bdrYb0ftlYE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/bdrYb0ftlYE/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Fox - December 2, 2020 5:12am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;ww_4gFpD3Gg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ww_4gFpD3Gg/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Bobcat - November 4, 2020 7:43am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;SJ8yqTgqoGs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/SJ8yqTgqoGs/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Fox - September 29, 2020  10:07 PM&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;ezjfc1b6SLc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ezjfc1b6SLc/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Bobcat - September 5, 2020   2:07am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;D6iMS5XjuVM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/D6iMS5XjuVM/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Coyote - September 4 2020   7:53pm&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;B1Thtj07r8E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/B1Thtj07r8E/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Bobcat  July 4 2020 5:30am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;exhn8qXdaY0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/exhn8qXdaY0/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Deer June 23 2020 7:06am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;lEoykXY4hRY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/lEoykXY4hRY/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Bear June 27 2020 1:29am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;noqk_Z5C8bo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/noqk_Z5C8bo/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Baby Bear June 26 2020  7:14am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;I6EtcFchdRA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/I6EtcFchdRA/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Bobcat June 22 2020  7:48pm&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;ul&gt;
+&lt;li&gt;Turkey May 17 2020   5:57am&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;DWaLJOtQ1nc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/DWaLJOtQ1nc/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Turkey May 17 2020   5:57am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;ul&gt;
+&lt;li&gt;Racoons March 10 2020   8:19pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;JN70jVDk_aE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/JN70jVDk_aE/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Racoons March 10 2020   8:19pm&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;8f91SwKDG20&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/8f91SwKDG20/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Bobcat March 7 2020 7:11pm&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;2petalKgSwI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/2petalKgSwI/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Coyote February 5 2020 4:33am&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Otter</title>
+		<link href="https://sanfordtrailcam.com/posts/secondpost/"/>
+		<updated>2022-03-21T00:00:00Z</updated>
+		<id>https://sanfordtrailcam.com/posts/secondpost/</id>
+		<content type="html">&lt;!-- Load the JS only when the component is needed --&gt;
+&lt;script src=&quot;https://sanfordtrailcam.com/js/lite-yt-embed.js&quot;&gt;&lt;/script&gt;
+&lt;!-- Web component for lite-youtube-embed --&gt;
+&lt;lite-youtube videoid=&quot;NLFCgXpuwQw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/NLFCgXpuwQw/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;Play Video: Otter&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>This is my fourth post.</title>
+		<link href="https://sanfordtrailcam.com/posts/fourthpost/"/>
+		<updated>2018-09-30T00:00:00Z</updated>
+		<id>https://sanfordtrailcam.com/posts/fourthpost/</id>
+		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://sanfordtrailcam.com/posts/fourthpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is my third post.</title>
+		<link href="https://sanfordtrailcam.com/posts/thirdpost/"/>
+		<updated>2018-08-24T00:00:00Z</updated>
+		<id>https://sanfordtrailcam.com/posts/thirdpost/</id>
+		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+&lt;pre class=&quot;language-diff-js&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;// this is a command&lt;br /&gt;function myCommand() {&lt;br /&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token deleted-sign deleted language-js&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;// Test with a line break above this line.&lt;br /&gt;console.log(&#39;Test&#39;);&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://sanfordtrailcam.com/posts/thirdpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+</content>
+	</entry>
+</feed>

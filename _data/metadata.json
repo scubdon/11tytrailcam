@@ -1,0 +1,21 @@
+{
+  "title": "Sanford Trail Cam",
+  "url": "https://sanfordtrailcam.com/",
+  "language": "en",
+  "description": "Trail Camera recordings from Sanford, Maine.",
+  "feed": {
+    "subtitle": "Trail Camera recordings from Sanford, Maine.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://sanfordtrailcam.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://sanfordtrailcam.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Richard",
+    "email": "scubdub@sanfordtrailcam.com",
+    "url": "https://sanfordtrailcam.com"
+  }
+}
